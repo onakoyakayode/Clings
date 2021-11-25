@@ -2327,7 +2327,7 @@ only screen and (max-width: 320.98px) {
 
     .questionMark {
         position: absolute;
-        top: -40px;
+        top: -30px;
         right: -35px;
         font-size: 2.5rem;
         font-weight: bold;
