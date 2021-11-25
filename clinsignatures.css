@@ -2339,16 +2339,16 @@ only screen and (max-width: 320.98px) {
     }
 
     .head1 .green {
-        display: inline-block;
+        display: inline;
         position: relative;
         top: 75px;
-        left: 35px;
+        left: 50px;
         padding: 15px 5px;
         justify-content: center;
         text-align: center;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         background-clip: padding-box;
-        width: 360px;
+        width: 95%;
         font-family: 'Quicksand', sans-serif;
         font-weight: 400;
     }
@@ -2369,14 +2369,14 @@ only screen and (max-width: 320.98px) {
         color: #000;
         border-radius: 8px;
         padding: 15px 5px;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         margin-top: 100px;
         font-family: 'Quicksand', sans-serif;
         align-items: center;
         justify-content: center;
-        width: 360px;
+        width: 90%;
         position: relative;
-        left: 35px;
+        left: 60px;
         text-align: center;
         font-weight: 400;
     }
@@ -2385,26 +2385,26 @@ only screen and (max-width: 320.98px) {
         content: '';
         display: block;
         position: absolute;
-        top: -39px;
+        top: -31px;
         right: 18px;
         height: 0;
         width: 0;
         border-color: transparent transparent #1ec172c2 transparent;
         border-style: solid;
-        border-width: 20px;
+        border-width: 1rem;
     }
     
     .white::after {
         content: '';
         display: block;
         position: absolute;
-        top: -40px;
+        top: -30px;
         right: 18px;
         height: 0;
         width: 0;
         border-color: transparent transparent rgba(255, 255, 255, 0.712) transparent;
         border-style: solid;
-        border-width: 20px;
+        border-width: 1rem;
     }
     
     .head2 {
